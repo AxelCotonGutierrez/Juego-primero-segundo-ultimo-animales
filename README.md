@@ -1,6 +1,6 @@
 # Diferenciar Ordinales Primero, Segundo y Último usando animales
 
-![Juego de los Ciclistas](https://axelcotongutierrez.github.io/learningmathematicas/assets/images//posts/05J12Ultimo/animales.jpg)
+![Juego de los Animales](https://axelcotongutierrez.github.io/learningmathematicas/assets/images//posts/05J12Ultimo/animales.jpg)
 
 Dentro del blog: https://axelcotongutierrez.github.io/learningmathematicas/
 
