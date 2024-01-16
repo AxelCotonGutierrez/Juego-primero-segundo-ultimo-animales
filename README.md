@@ -8,7 +8,7 @@ Juego para Infantil para aprender diferenciar entre primero y último.
 
 Puedes probar el juego en esta url:
 
-https://axelcotongutierrez.github.io/primero-segundo-ultimo-ciclistas/
+https://axelcotongutierrez.github.io/Juego-primero-segundo-ultimo-animales/
 
 
 ¡Bienvenido al emocionante juego "de los Animales"! ¿Estás preparado para poner a prueba tus habilidades de observación y tu astucia mientras te sumerges en un desafío lleno de animales? Prepárate para desafiar tu mente y demostrar que eres un experto en distinguir a estos fascinantes amigos.
